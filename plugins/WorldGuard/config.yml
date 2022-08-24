@@ -144,6 +144,7 @@ dynamics:
     disable-soil-dehydration: false
     disable-coral-block-fade: false
     snow-fall-blocks: []
+    disable-sculk-growth: false
 blacklist:
     use-as-whitelist: false
     logging:
